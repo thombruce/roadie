@@ -1,0 +1,9 @@
+{
+  "name": "roadie",
+  "version": "0.0.0",
+  "description": "Vue 3 UI kit and utilities",
+  "repository": "https://github.com/thombruce/roadie",
+  "author": "Thom Bruce <thom@thombruce.com>",
+  "license": "MIT",
+  "private": true
+}
