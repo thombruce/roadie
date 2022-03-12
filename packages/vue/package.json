@@ -1,0 +1,10 @@
+{
+  "name": "@roadie/vue",
+  "version": "0.0.0",
+  "repository": "https://github.com/thombruce/roadie",
+  "author": "Thom Bruce <thom@thombruce.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
